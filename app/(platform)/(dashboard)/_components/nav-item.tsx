@@ -18,7 +18,6 @@ export type Organization = {
   imageUrl: string
   name: string
 }
-
 interface NavItemProps {
   isExpanded: boolean
   isActive: boolean
